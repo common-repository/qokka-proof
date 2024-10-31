@@ -1,0 +1,54 @@
+#credible-signup-section {
+  margin-bottom: 32px; }
+  #credible-signup-section input {
+    margin: 8px;
+    margin-left: 0px; }
+  #credible-signup-section input[type=text], #credible-signup-section input[type=password] {
+    width: 30em; }
+  #credible-signup-section input[type=submit] {
+    margin: 16px 0; }
+  #credible-signup-section label {
+    margin-right: 16px; }
+  #credible-signup-section .advanced-config {
+    display: none; }
+
+#credible-login-response {
+  color: red; }
+
+#credible-login-resend-verify {
+  display: none; }
+
+#credible-login-section {
+  margin-bottom: 32px; }
+  #credible-login-section input {
+    margin: 8px;
+    margin-left: 0px; }
+  #credible-login-section input[type=text], #credible-login-section input[type=password] {
+    width: 30em; }
+  #credible-login-section input[type=submit] {
+    margin: 16px 0; }
+  #credible-login-section label {
+    margin-right: 16px; }
+  #credible-login-section .advanced-config {
+    display: none; }
+
+#credible_api_key {
+  width: 40em; }
+
+#credible-api-key-check-response, #credible-login-response, #credible-signup-response {
+  font-size: 16px; }
+
+.credible-danger-zone {
+  margin-top: 64px; }
+
+.big-button {
+  color: #FFF;
+  padding: 16px 32px;
+  border: 0;
+  border-radius: 4px;
+  font-size: 1.2em;
+  margin-right: 32px;
+  background-color: #6772E5;
+  cursor: pointer; }
+
+/*# sourceMappingURL=admin.css.map */
